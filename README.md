@@ -5,7 +5,7 @@
 Online Shopping Application is a **full-stack e-commerce web application** that demonstrates real-world online shopping functionality. Users can securely log in, browse products, and view product details through a responsive and user-friendly interface.
 
 ## Abstract
-This project showcases complete integration between **frontend, backend, database, and AI technologies**. It provides secure authentication, smooth user interaction, and intelligent user support through an AI-powered chatbot.
+This project showcases complete integration between **frontend, backend, database, and AI technologies**. It provides secure authentication, smooth user interaction.
 
 ## Technologies Used
 - **Frontend:** HTML, CSS, JavaScript, React.js  
@@ -22,9 +22,6 @@ The application follows a **client–server architecture**, where the React fron
 - Filters and sorting options  
 - Responsive UI  
 - Protected routes using JWT  
-
-## AI-Powered Help Centre (24/7 Chatbot)
-An **AI-powered chatbot** is integrated to provide **24/7 customer support**. It helps users with product inquiries, order-related questions, navigation, and basic troubleshooting, improving user experience and engagement.
 
 ## Database
 SQLite is used due to its lightweight, serverless nature and easy integration, making it suitable for academic projects.
